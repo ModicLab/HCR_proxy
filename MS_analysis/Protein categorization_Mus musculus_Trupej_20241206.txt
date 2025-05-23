@@ -1,0 +1,129 @@
+Gene.names	loc
+Polr1f/Twistnb	FC
+Polr1a/Rpa1	FC
+Cd3eap	FC
+RPAC2/Polr1d	FC
+RPAC1/Polr1c	FC
+RPA12/Polr1h/Znrd1	FC
+RPA2/Polr1b	FC
+RPA49/Paf53/Polr1e	FC
+TAF1A	FC
+TAF1C	FC
+UBTF	FC
+RRN3	FC
+TIF1A/Trim24	FC
+Tcof1	FC
+Top1	FC
+DKC1	DFC
+FBL	DFC
+GAR1	DFC
+KNOP1/Tsg118	DFC
+LYAR	DFC
+NHP2/Nola2	DFC
+NOLC1/Kiaa0035 	DFC
+NOP10/Nola3	DFC
+NOP56/Nol5a	DFC
+NOP58/Nol5	DFC
+Snu13/Nhp2l1, Ssfa1	DFC
+Rrp9/Rnu3ip2, U3-55k	DFC
+Dhx15/Ddx15, Deah9	DFC
+Adarb2/Adar3, Red2	GC
+Bop1/Kiaa0124	GC
+Brix1/Brix, Bxdc2	GC
+Cdkn2a	GC
+Cmss1	GC
+DDX18	GC
+Ddx24	GC
+Ddx27	GC
+Ddx56/D11Ertd619e, Noh61	GC
+Dimt1/Dimt1l	GC
+Dnttip2	GC
+Ebna1bp2/Ebp2	GC
+Exosc10/Pmscl2	GC
+Grwd1/A301	GC
+Gtpbp4/Crfg, Nog1	GC
+Imp3	GC
+Llph	GC
+Mak16/Rbm13	GC
+Mybbp1a/P160	GC
+Nifk/Mki67ip	GC
+Nkrf/Nrf	GC
+Nop2/Nol1	GC
+Npm1	GC
+Pwp2/Pwp2h	GC
+Rpl21 	GC
+Rps13	GC
+Rrp1/Nnp1	GC
+Rrp1b	GC
+Senp3/Smt3ip, Smt3ip1	GC
+Surf6/Surf-6	GC
+Tbl3	GC
+Utp4/Cirh1a, Kiaa1988, Tex292	GC
+Utp6/Mhat	GC
+Cdca8	GC
+Rbm14	GC
+Rbm4/Rbm4a	GC
+Rbm4b/Rbm30	GC
+Sumo3/Smt3a, Smt3h1 	GC
+Xpo1/Crm1	GC
+Ddx17	GC
+Sumo2/Smt3b/Smt3h2 	GC
+Lin28b	GC
+Rpl11	GC
+Rpl18a	GC
+Rpl27	GC
+Abhd14b 	GC
+Ankrd1/Carp	GC
+Apex2/Ape2	GC
+Bysl	GC
+Cript	GC
+Eif6/Itgb4bp	GC
+Exosc7/Rrp42	GC
+Exosc9/Exosc9	GC
+Fads3 	GC
+Fam32a/Otag12	GC
+Ino80c	GC
+Mcm7/Cdc47, Mcmd7	GC
+Mus81	GC
+Nle1	GC
+Nsa2/Tinp1	GC
+Pes1/Pes	GC
+Ppp1cc	GC
+Ppp1r10/Cat53, Pnuts	GC
+Rpl13a/P198, Tstap198-7	GC
+Rpl23a	GC
+Rpl5	GC
+Rsl1d1 	GC
+Srp14 	GC
+Sub1/Pc4, Rpo2tc1	GC
+Sumo1/Smt3c, Smt3h3, Ubl1	GC
+Thyn1/Thy28	GC
+Tma7/Ccdc72	GC
+Top2b	GC
+Usp46	GC
+Wdr45/DXImx38e, Wdrx1, Wipi4	GC
+Xrcc6/G22p1, Ku70	GC
+Zfp41/Zfp-41	GC
+Znf668/Zfp668	GC
+Znf771/Zfp771	GC
+Cfap97/Kiaa1430 	GC
+Pelo 	GC
+Selenbp1/Lpsb	GC
+Tpgs2	GC
+Ubxn11/D4Bwg1540e, Soc, Ubxd5	GC
+Ddx10	OTH
+Ddx21	OTH
+Ddx31	OTH
+Ddx50	OTH
+Nip7	OTH
+Urb1/Kiaa0539, Npa1	OTH
+Dhx9/Ddx9 	OTH
+Ddx47	OTH
+Ddx5/Tnz2	OTH
+Srfbp1 	OTH
+Cbx5/Hp1a	OTH
+L3mbtl3/Mbt1	OTH
+Pcna	OTH
+Trim28/Kap1, Krip1, Tif1b	OTH
+Khdrbs1 	OTH
+Ptbp1/Ptb	OTH
