@@ -11,8 +11,8 @@ configs = [
     ("esm2_t48_15B_UR50D", 48,   "15B"),
 ]
 
-data_csv   = "data/for_training/sequence_and_groups_for_esm2_15B_representations.tsv"
-out_dir    = "data/curated_data_for_modeling/esm2_representations"
+data_csv   = "/ceph/hpc/home/novljanj/data_storage/projects/nucleolus_enriched_proteins/data/for_revision/curated_data_for_modeling/localcider_features.tsv"
+out_dir    = "/ceph/hpc/home/novljanj/data_storage/projects/nucleolus_enriched_proteins/results/representations"
 
 df   = pd.read_csv(data_csv, sep="\t")
 data = list(zip(df["Protein ID"], df["Sequence"]))
@@ -46,6 +46,6 @@ for fn_name, layer, suffix in configs:
         all_reps.append(mean_rep)
     all_reps = np.concatenate(all_reps, axis=0) 
 
-    out_path = os.path.join(out_dir, f"representations_45S_47S_esm2_{suffix}.npy")
+    out_path = os.path.join(out_dir, f"representations_esm2_{suffix}.npy")
     np.save(out_path, all_reps)
     print(f"Saved {all_reps.shape} array to {out_path}")
