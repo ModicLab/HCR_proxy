@@ -11,8 +11,8 @@ configs = [
     ("esm2_t48_15B_UR50D", 48,   "15B"),
 ]
 
-data_csv   = "/ceph/hpc/home/novljanj/data_storage/projects/nucleolus_enriched_proteins/data/for_revision/curated_data_for_modeling/localcider_features.tsv"
-out_dir    = "/ceph/hpc/home/novljanj/data_storage/projects/nucleolus_enriched_proteins/results/representations"
+data_csv   = "data/for_revision/curated_data_for_modeling/localcider_features.tsv"
+out_dir    = "results/representations"
 
 df   = pd.read_csv(data_csv, sep="\t")
 data = list(zip(df["Protein ID"], df["Sequence"]))
