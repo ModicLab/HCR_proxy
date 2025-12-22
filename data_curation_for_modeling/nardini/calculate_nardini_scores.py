@@ -2,7 +2,7 @@ from localcider.sequenceParameters import SequenceParameters
 import pandas as pd
 import multiprocessing as mp
 
-all_nuclear = pd.read_csv('data/curated_data_for_modeling/45S_47S_localcider_features.tsv', sep='\t')
+all_nuclear = pd.read_csv('data/curated_data_for_modeling/localcider_features.tsv', sep='\t')
 all_nuclear = all_nuclear[["Protein ID", "Sequence"]]
 
 def run_sequence_analysis(sequence, num_scrambles=100000, random_seed=None):
